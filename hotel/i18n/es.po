@@ -74,17 +74,17 @@ msgstr ""
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.report_hotel_folio
 msgid "<strong>From:</strong>"
-msgstr ""
+msgstr "De:"
 
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.report_hotel_folio
 msgid "<strong>Net Total:</strong>"
-msgstr ""
+msgstr "Total Neto"
 
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.report_hotel_folio
 msgid "<strong>To:</strong>"
-msgstr ""
+msgstr "A:"
 
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.report_hotel_folio
@@ -99,7 +99,7 @@ msgid ""
 "A description of the Product that you want to communicate to your customers. "
 "This description will be copied to every Sales Order, Delivery Order and "
 "Customer Invoice/Credit Note"
-msgstr ""
+msgstr "Factura/Nota Credito"
 
 #. module: hotel
 #: model:ir.model.fields,help:hotel.field_hotel_room_amenities_description_purchase
@@ -109,7 +109,7 @@ msgid ""
 "A description of the Product that you want to communicate to your vendors. "
 "This description will be copied to every Purchase Order, Receipt and Vendor "
 "Bill/Credit Note."
-msgstr ""
+msgstr "Cuanta/Nota Credito"
 
 #. module: hotel
 #: model:ir.model.fields,help:hotel.field_hotel_room_amenities_description
