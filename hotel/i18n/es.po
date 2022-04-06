@@ -36,7 +36,7 @@ msgstr "Product_id"
 #: model:ir.model.fields,field_description:hotel.field_hotel_room_sales_count
 #: model:ir.model.fields,field_description:hotel.field_hotel_services_sales_count
 msgid "# Sales"
-msgstr ""
+msgstr "# Ventas"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_folio_invoice_count
@@ -79,7 +79,7 @@ msgstr ""
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.report_hotel_folio
 msgid "<strong>Net Total:</strong>"
-msgstr ""
+msgstr "Total Neto"
 
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.report_hotel_folio
@@ -163,7 +163,7 @@ msgstr "Comodidades"
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_res_company_additional_hours
 msgid "Additional Hours"
-msgstr "Additional Hours"
+msgstr "Horas Adiconales"
 
 #. module: hotel
 #: model:hotel.room.type,name:hotel.rooms
@@ -231,29 +231,29 @@ msgstr "Tarifa de servicios"
 #: model:ir.model.fields,field_description:hotel.field_hotel_service_line_amt_invoiced
 #, fuzzy
 msgid "Amount Invoiced"
-msgstr "Crear factura"
+msgstr "Importe facturado"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_folio_line_amt_to_invoice
 #: model:ir.model.fields,field_description:hotel.field_hotel_service_line_amt_to_invoice
 msgid "Amount To Invoice"
-msgstr ""
+msgstr "Importe a facturar"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_folio_analytic_account_id
 msgid "Analytic Account"
-msgstr ""
+msgstr "Cuenta Analitica"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_folio_line_analytic_tag_ids
 #: model:ir.model.fields,field_description:hotel.field_hotel_service_line_analytic_tag_ids
 msgid "Analytic Tags"
-msgstr ""
+msgstr "Etiquetas analíticas"
 
 #. module: hotel
 #: model:ir.model.fields,help:hotel.field_hotel_room_floor_id
 msgid "At which floor the room is located."
-msgstr "At which floor the room is located."
+msgstr "En qué piso se encuentra la habitación."
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_room_amenities_attribute_value_ids
@@ -273,13 +273,13 @@ msgstr "Declaración automática"
 #: model:ir.ui.view,arch_db:hotel.view_hotel_room_search
 #, fuzzy
 msgid "Available"
-msgstr "Variable"
+msgstr "Disponible"
 
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.view_hotel_room_search
 #, fuzzy
 msgid "Available Rooms"
-msgstr "Todas las habitaciones"
+msgstr "Habitaciones Disponibles"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_room_amenities_available_in_pos
@@ -358,17 +358,17 @@ msgstr "Cancelar"
 #: model:ir.ui.view,arch_db:hotel.view_hotel_folio1_form
 #, fuzzy
 msgid "Cancel Folio"
-msgstr "Hotel Folio"
+msgstr "Cancelar Folio"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_room_capacity
 msgid "Capacity"
-msgstr ""
+msgstr "Capacidad"
 
 #. module: hotel
 #: model:ir.ui.view,arch_db:hotel.view_hotel_room_kanban
 msgid "Capacity:"
-msgstr ""
+msgstr "Capacidad"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_room_amenities_type_amenity_id
@@ -395,7 +395,7 @@ msgstr "Entradas"
 #: model:ir.model.fields,field_description:hotel.field_folio_room_line_check_in
 #, fuzzy
 msgid "Check In Date"
-msgstr "Entradas"
+msgstr "Fecha de Entrada"
 
 #. module: hotel
 #: model:ir.model.fields,field_description:hotel.field_hotel_folio_checkout_date
